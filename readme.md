@@ -11,7 +11,7 @@ To run the script, you need to have the following installed:
 - matplotlib library
 - requests library
 
-The script will retrieve the latest COVID-19 data and generate two bar charts:
+## The script will retrieve the latest COVID-19 data and generate two bar charts:
 
 - The first chart shows the total confirmed cases of COVID-19 in different states of India.
 - The second chart shows the number of deaths due to COVID-19 in different states of India.
@@ -26,4 +26,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+See the [LICENSE](LICENSE) file for more information.
